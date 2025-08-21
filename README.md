@@ -94,26 +94,6 @@ Designing reproducible experimental protocols in biology is **time-consuming and
   - Better biomedical terminology usage  
   - Fewer hallucinations compared to base BioMistral  
 
-Example snippet:
-Title: Testing the Inhibitory Effect of Compound X on E. coli Growth
-Objective: To determine if Compound X can inhibit E. coli growth
-Materials:
-	•	LB agar plates
-	•	100 mM NaCl
-	•	Ampicillin, Streptomycin, Kanamycin
-	•	Spectrophotometer, incubator, sterile pipette tips
-Safety:
-	•	Wear gloves, goggles, and lab coat
-	•	Dispose of biohazard waste appropriately
-Procedure:
-	1.	Autoclave glassware
-	2.	Prepare agar plates with antibiotic
-	3.	Inoculate bacterial cultures
-	4.	Add Compound X at test concentrations
-	5.	Incubate overnight at 37°C
-	6.	Measure OD600 to assess growth inhibition
- Refrences:
-
  ---
 
 ## 🌟 Why This Project is Unique  
